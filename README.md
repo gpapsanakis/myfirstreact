@@ -2,6 +2,29 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 https://gitlab.com/snippets/1989026
 
+The goal is to retrieve and display data provided by the drug database https://drugtargetcommons.fimm.fi
+
+You should implement a web application that does the following:
+
+retrieves bioactivity data through the API
+displays a paginated table with selected bioactivity data
+displays a pie chart of protein class classification (protein_class property) per page
+
+You are limited to implementing this with any/all of the following: React, Redux, Highcharts, Ant design.
+There should be clear instructions on how to setup and run the application in a new development environment.
+Please provide the solution as a git code repository in your preferred free git hosting service.
+The implementation will be evaluated against:
+
+efficiency of implementation, i.e. minimized response times, re-renders, etc
+use of best practices that promote modularity, code re-use, and maintainability
+code readability and quality
+
+Bonus:
+
+implement a filter on max development phase (max_phase property)
+
+Guide for testing:
+
 Node.js and npm should be installed in their latest version.
 
 Download the code files.
