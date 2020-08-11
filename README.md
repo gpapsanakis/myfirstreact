@@ -2,7 +2,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Node.js and npm should be installed in their latest version.
 
+Download the code files.
+
 Use cmd and cd to the path of the app. Then press npm start.
+
+There was a difficulty to properly import the data of protein class to the Highcharts library due to their nature of being in variables instead of simple numbers.
+
+The bonus task has been implemented.
 
 ## Available Scripts
 
