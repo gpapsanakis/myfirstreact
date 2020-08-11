@@ -1,4 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 Node.js and npm should be installed in their latest version.
 
 Use cmd and cd to the path of the app. Then press npm start.
