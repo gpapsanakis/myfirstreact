@@ -7,7 +7,9 @@ The goal is to retrieve and display data provided by the drug database https://d
 You should implement a web application that does the following:
 
 retrieves bioactivity data through the API
+
 displays a paginated table with selected bioactivity data
+
 displays a pie chart of protein class classification (protein_class property) per page
 
 You are limited to implementing this with any/all of the following: React, Redux, Highcharts, Ant design.
@@ -16,7 +18,9 @@ Please provide the solution as a git code repository in your preferred free git 
 The implementation will be evaluated against:
 
 efficiency of implementation, i.e. minimized response times, re-renders, etc
+
 use of best practices that promote modularity, code re-use, and maintainability
+
 code readability and quality
 
 Bonus:
