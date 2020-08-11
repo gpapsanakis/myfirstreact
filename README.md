@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+https://gitlab.com/snippets/1989026
+
 Node.js and npm should be installed in their latest version.
 
 Download the code files.
